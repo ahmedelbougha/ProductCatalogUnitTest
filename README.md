@@ -1,4 +1,4 @@
 # ProductCatalogUnitTest
 
-## Data Driven Example
+## Data Driven Examples
 ## Fakes Examples
